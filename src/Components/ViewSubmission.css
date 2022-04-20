@@ -1,0 +1,12 @@
+
+
+     .icon{
+         height: 3rem;
+         width: 5rem ;
+         border-radius: 50%;
+         background-color: black;
+         color: antiquewhite;
+         display: flex;
+         justify-content: center;
+
+     }
